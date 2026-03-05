@@ -1,6 +1,6 @@
 This is the README file for:  
 
-https://emd.codeberg.page/  
+https://emdiscussions.github.io/blog/  
 
 Built with Publii  
 Theme: Simple  
